@@ -13,7 +13,7 @@ Github Blog (I am testing)
 
 [![Github Username](https://github-readme-stats.vercel.app/api?username=JeonghunLee)](https://github.com/JeonghunLee)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonghunLee&layout=compact&hide=Visual%20Basic)](https://github.com/JeonghunLee)
+[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonghunLee&layout=compact&hide=Visual%20Basic)](https://github.com/JeonghunLee)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JeonghunLee&theme=dark&row=1&column=5)](https://github.com/JeonghunLee)  
 
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
   
   
 ##
-<p align="center"><sup>© 2022 JHLEE | </sup><a href="#Title-1"><sup>Table of Contents</sup></a></p>
+<p align="center"><sup>© 2022 Jeonghun Lee | </sup><a href="#Title-1"><sup>Table of Contents</sup></a></p>
