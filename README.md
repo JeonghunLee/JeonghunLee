@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Github Blog 
+https://jeonghunlee.github.io/
+
+
 ## GitHub Status
 
 
@@ -25,6 +29,8 @@ Here are some ideas to get you started:
 -->
 
 ## Refer to
-
+  https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
+  https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
+  
 [![Setting Github Themes](https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   
