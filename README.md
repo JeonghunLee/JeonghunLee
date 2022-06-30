@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Github Blog 
+Github Blog (I am testing)
 https://jeonghunlee.github.io/
 
 
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 ## Refer to
   https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
   https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
-[![How To use README](https://github.com/JeonghunLee/JeonghunLee.github.io)](https://github.com/JeonghunLee/JeonghunLee.github.io) 
-[![Setting Github Themes](https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[How To use README](https://github.com/JeonghunLee/JeonghunLee.github.io)
+[Setting Github Themes](https://github.com/anuraghazra/github-readme-stats)
   
