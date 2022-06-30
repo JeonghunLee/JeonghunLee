@@ -31,8 +31,10 @@ Here are some ideas to get you started:
 
 
 ## Refer to
-  https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
-  https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
+
 [How To use README](https://github.com/JeonghunLee/JeonghunLee.github.io)
 [Setting Github Themes](https://github.com/anuraghazra/github-readme-stats)
   
+  
+##
+<p align="center"><sup>© 2022 JHLEE | </sup><a href="#Title-1"><sup>Table of Contents</sup></a></p>
