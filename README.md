@@ -3,7 +3,7 @@
 ## GitHub Status
 
 
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=JeonghunLee)](https://github.com/JeonghunLee)
+[![Github Username](https://github-readme-stats.vercel.app/api?username=JeonghunLee)](https://github.com/JeonghunLee)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonghunLee&layout=compact&hide=Visual%20Basic)](https://github.com/JeonghunLee)
 
