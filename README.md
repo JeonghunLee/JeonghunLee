@@ -2,10 +2,11 @@
 
 I like learning the latest technology and interested in various things related to SW and HW.
 
-Github Blog (I am testing)             
+Github TEST Blog (I am testing)             
    https://jeonghunlee.github.io/
 
-
+My Google Technical Blog
+   https://ahyuo79.blogspot.com/  
 
 
 ## GitHub Status
