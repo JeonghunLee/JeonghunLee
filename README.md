@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Git Status
+## GitHub Status
 
 
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=JeonghunLee)](https://github.com/JeonghunLee)
@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Refer to
+[![Setting Github Themes](https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  
