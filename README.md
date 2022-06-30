@@ -1,7 +1,11 @@
-### Hi there 👋
+## Hi There 👋
 
-Github Blog (I am testing)
-https://jeonghunlee.github.io/
+I like learning the latest technology and interested in various things related to SW and HW.
+
+Github Blog (I am testing)             
+   https://jeonghunlee.github.io/
+
+
 
 
 ## GitHub Status
@@ -30,7 +34,7 @@ Here are some ideas to get you started:
 
 
 
-## Refer to          
+## Refer to           
        
 [How To use README](https://github.com/JeonghunLee/JeonghunLee.github.io)         
 [Setting Github Themes](https://github.com/anuraghazra/github-readme-stats)        
