@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonghunLee&layout=compact&hide=Visual%20Basic)](https://github.com/JeonghunLee)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JeonghunLee&theme=chalk&row=1&column=5)](https://github.com/JeonghunLee)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=JeonghunLee&theme=dark&row=1&column=5)](https://github.com/JeonghunLee)  
 
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=JeonghunLee)](https://github.com/JeonghunLee)
 
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Refer to
+## Refer to
+
 [![Setting Github Themes](https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   
