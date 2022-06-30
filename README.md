@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 
 
-## Refer to
-
-[How To use README](https://github.com/JeonghunLee/JeonghunLee.github.io)
-[Setting Github Themes](https://github.com/anuraghazra/github-readme-stats)
+## Refer to          
+       
+[How To use README](https://github.com/JeonghunLee/JeonghunLee.github.io)         
+[Setting Github Themes](https://github.com/anuraghazra/github-readme-stats)        
   
   
 ##
