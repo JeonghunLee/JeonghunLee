@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 [How To Set Gituser e.g.](https://github.com/CryptoSalamander/CryptoSalamander)  
   
 ##
-<p align="center"><sup>© 2022 Jeonghun Lee | </sup><a href="#Title-1"><sup>Table of Contents</sup></a></p>
+<p align="center"><sup>© 2022 Jeonghun (James) Lee | </sup><a href="#Title-1"><sup>Table of Contents</sup></a></p>
