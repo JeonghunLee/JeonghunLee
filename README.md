@@ -1,7 +1,17 @@
 ### Hi there 👋
 
-<!--
-**JeonghunLee/JeonghunLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Git Status
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCryptoSalamander&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/CryptoSalamander)
+
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=JeonghunLee)](https://github.com/JeonghunLee)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonghunLee&layout=compact&hide=Visual%20Basic)](https://github.com/JeonghunLee)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JeonghunLee&theme=chalk&row=1&column=5)](https://github.com/JeonghunLee)  
+
+[![status](https://github-readme-streak-stats.herokuapp.com/?user=JeonghunLee)](https://github.com/JeonghunLee)
+
 
 Here are some ideas to get you started:
 
