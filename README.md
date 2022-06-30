@@ -39,7 +39,7 @@ Here are some ideas to get you started:
        
 [How To use README](https://github.com/JeonghunLee/JeonghunLee.github.io)         
 [Setting Github Themes](https://github.com/anuraghazra/github-readme-stats)        
-[How To Set Gituser](https://github.com/CryptoSalamander/CryptoSalamander)  
+[How To Set Gituser e.g.](https://github.com/CryptoSalamander/CryptoSalamander)  
   
 ##
 <p align="center"><sup>© 2022 Jeonghun Lee | </sup><a href="#Title-1"><sup>Table of Contents</sup></a></p>
