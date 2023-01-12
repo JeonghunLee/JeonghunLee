@@ -16,21 +16,24 @@ I like learning the latest technology and interested in various things related t
 
 ## 
 - 🔭 I’m currently working at Bitsensing   
-- 🌱 I’m currently learning everything releated to Embedded, especailly now ESP32/RADAR/Python    
+- 🌱 I’m currently learning everything releated to Embedded, especailly now ESP32/RADAR/Python/Node.js    
 - 👯 I’m looking to collaborate with various engineers interested in Embedded 
 - 🤔 I’m looking for help with ,hmm ...
 - 💬 Ask me about ...
-- 📫 How to reach me:  
+- 📫 How to reach me:  Google Blog or Here
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-Github TEST Blog (I am testing)             
-   https://jeonghunlee.github.io/
-
 My Google Technical Blog   
    https://ahyuo79.blogspot.com/  
 
+Bitsensing (working as JH) 
+   https://github.com/JH-bitsensing
+
+Github TEST Blog (I am testing)             
+   https://jeonghunlee.github.io/
+   
 <!--
 ## Refer to           
        
