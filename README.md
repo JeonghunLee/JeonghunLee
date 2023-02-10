@@ -26,7 +26,9 @@ I like learning the latest technology and interested in various things related t
 -->                 
 
 <br/>
+
 **Thanks for visiting here** 
+
 <br/>
 
 ##
