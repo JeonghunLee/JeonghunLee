@@ -22,7 +22,7 @@ I like learning the latest technology and interested in various things related t
 - 💬 Ask me about ... not want 
 - 📫 How to reach me:  [Google Blog](https://ahyuo79.blogspot.com) or Here or [Linkedin](https://www.linkedin.com/in/JeonghunLee-0911/)   
 - 😄 Pronouns: ... Hmm, not yet 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...        
 -->
 Thanks for visiting here 
 <br/>
