@@ -23,8 +23,10 @@ I like learning the latest technology and interested in various things related t
 - 📫 How to reach me:  [Google Blog](https://ahyuo79.blogspot.com) or Here or [Linkedin](https://www.linkedin.com/in/JeonghunLee-0911/)   
 - 😄 Pronouns: ... Hmm, not yet 
 - ⚡ Fun fact: ...        
--->
-Thanks for visiting here 
+-->                 
+
+<br/>
+**Thanks for visiting here** 
 <br/>
 
 ##
