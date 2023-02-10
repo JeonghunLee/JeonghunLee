@@ -20,7 +20,7 @@ I like learning the latest technology and interested in various things related t
 - 👯 I’m looking to collaborate with various engineers interested in Embedded 
 - 🤔 I’m looking for help with ,hmm ...
 - 💬 Ask me about ... not want 
-- 📫 How to reach me:  [Google Blog](https://ahyuo79.blogspot.com) or Here or [Linkedin](https://www.linkedin.com/in/JeonghunLee-0911/)   
+- 📫 How to reach me:  [Google Blog](https://ahyuo79.blogspot.com) or Here       
 - 😄 Pronouns: ... Hmm, not yet 
 - ⚡ Fun fact: ...        
 -->                 
