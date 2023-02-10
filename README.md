@@ -25,11 +25,7 @@ I like learning the latest technology and interested in various things related t
 - ⚡ Fun fact: ...        
 -->                 
 
-<br/>
-
 **Thanks for visiting here** 
-
-<br/>
 
 ##
  
