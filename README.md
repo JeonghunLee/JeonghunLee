@@ -1,7 +1,7 @@
 ### Hi There 👋
    
 Are you interested in me ?      
-I like learning the latest technology and interested in various things related to SW and HW.
+I like learning the latest technology and am interested in various things related to SW and HW.
 
 <!--
 
@@ -16,7 +16,7 @@ I like learning the latest technology and interested in various things related t
 
 ## 
 - 🔭 I’m currently working at Bitsensing   
-- 🌱 I’m currently learning everything releated to Embedded, especailly now ESP32/RADAR/Python/Node.js    
+- 🌱 I’m currently learning everything related to Embedded, especially now BSP/ESP32/RADAR/Python   
 - 👯 I’m looking to collaborate with various engineers interested in Embedded 
 - 🤔 I’m looking for help with ,hmm ...
 - 💬 Ask me about ... not want 
