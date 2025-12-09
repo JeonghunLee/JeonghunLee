@@ -23,25 +23,30 @@ I like learning the latest technology and am interested in various things relate
 - 📫 How to reach me:  [Google Blog](https://ahyuo79.blogspot.com) or Here       
 - 😄 Pronouns: ... Hmm, not yet 
 - ⚡ Fun fact: ...        
--->                 
+               
 
 **Thanks for visiting here** 
 
 ##
  
-my other sites if interestd more  
+my other sites if interested more  
 
-<br/>
+* **My Technical Blog**   
+  https://ahyuo79.blogspot.com/  
+* **Github Main Pages**            
+  https://jeonghunlee.github.io/
+* Bitsensing (working as JH)     
+  https://github.com/JH-bitsensing
 
-My Google Technical Blog   
-   https://ahyuo79.blogspot.com/  
+## 
 
-Bitsensing (working as JH)     
-   https://github.com/JH-bitsensing
+* **Communities**     
+Actively participating in global semiconductor & embedded engineering communities     
+(using my **private email / private ID**, not affiliated with any employer):   
+   * [NXP Community](http://community.nxp.com/t5/user/viewprofilepage/user-id/181710)   
+   * [NVIDIA Developer Forums](https://forums.developer.nvidia.com/u/ahyuo79/activity)   
+   * [TI E2E Forum](https://e2e.ti.com/members/1028408/activities)  
 
-Github TEST Blog (I am testing)             
-   https://jeonghunlee.github.io/
-   
 <!--
 ## Refer to           
        
@@ -50,4 +55,4 @@ Github TEST Blog (I am testing)
 -->
 
 ##
-<p align="center"><sup>© 2022 Jeonghun (James) Lee | </sup><a href="#Title-1"><sup>Table of Contents</sup></a></p>
+<p align="center"><sup>© 2025 Jeonghun (James) Lee | </sup><a href="#Title-1"><sup>Table of Contents</sup></a></p>
