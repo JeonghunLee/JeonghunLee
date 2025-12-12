@@ -29,12 +29,16 @@ I like learning the latest technology and am interested in various things relate
 
 ##
  
-my other sites if interested more  
+Other Technical Resources   
 
-* **My Technical Blog**   
-  https://ahyuo79.blogspot.com/  
-* **Github Main Pages**            
-  https://jeonghunlee.github.io/
+* **My Technical Blog (Main)**          
+  https://ahyuo79.blogspot.com/     
+  A personal technical blog documenting system-level embedded engineering, DSP, imaging, RF systems, and performance optimization.
+  
+* **Github Pages**            
+  https://jeonghunlee.github.io/        
+  projects and documentation focused on system-level embedded engineering and testing.      
+  
 * Bitsensing (working as JH)     
   https://github.com/JH-bitsensing
 
@@ -46,6 +50,7 @@ Actively participating in global semiconductor & embedded engineering communitie
    * [NXP Community](http://community.nxp.com/t5/user/viewprofilepage/user-id/181710)   
    * [NVIDIA Developer Forums](https://forums.developer.nvidia.com/u/ahyuo79/activity)   
    * [TI E2E Forum](https://e2e.ti.com/members/1028408/activities)  
+
 
 <!--
 ## Refer to           
