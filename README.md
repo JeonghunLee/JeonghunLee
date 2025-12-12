@@ -15,16 +15,13 @@ I like learning the latest technology and am interested in various things relate
 -->
 
 ## 
-- 🔭 I’m currently working at Bitsensing   
-- 🌱 I’m currently learning everything related to Embedded, especially now BSP/ESP32/RADAR/Python   
-- 👯 I’m looking to collaborate with various engineers interested in Embedded 
-- 🤔 I’m looking for help with ,hmm ...
-- 💬 Ask me about ... not want 
-- 📫 How to reach me:  [Google Blog](https://ahyuo79.blogspot.com) or Here       
-- 😄 Pronouns: ... Hmm, not yet 
-- ⚡ Fun fact: ...        
-               
 
+- 🔭 I’m currently working at Bitsensing   
+- 🌱 I’m currently learning everything related to Embedded systems, especially now BSP, RF,ESP32, RADAR, and Python   
+- 👯 I’m looking to collaborate with various engineers interested in embedded systems
+- 📫 You can reach me via my [Technical Blog](https://ahyuo79.blogspot.com)        
+
+               
 **Thanks for visiting here** 
 
 ##
