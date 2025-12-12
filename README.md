@@ -33,7 +33,7 @@ Other Technical Resources
 
 * **My Technical Blog (Main)**          
   https://ahyuo79.blogspot.com/     
-  A personal technical blog documenting system-level embedded engineering, DSP, imaging, RF systems, and performance optimization.
+  A technical blog focused on system-level embedded systems(HW/FW/SW), DSP, imaging, RF, and performance optimization.   
   
 * **Github Pages**            
   https://jeonghunlee.github.io/        
