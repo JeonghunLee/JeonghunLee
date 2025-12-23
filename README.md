@@ -17,33 +17,43 @@ I like learning the latest technology and am interested in various things relate
 ## 
 
 - 🔭 I’m currently working at Bitsensing   
-- 🌱 I’m currently learning everything related to Embedded systems, especially now BSP, RF,ESP32, RADAR, and Python   
+- 🌱 I’m currently learning everything related to Embedded systems, especially now various BSP, RF,ESP32, RADAR, and Python   
 - 👯 I’m looking to collaborate with various engineers interested in embedded systems
-- 📫 You can reach me via my [Technical Blog](https://ahyuo79.blogspot.com)        
+- 📫 You can reach me via **My Technical Blog (Main)**  
 
                
 **Thanks for visiting here** 
 
-##
- 
-Other Technical Resources   
-
-* **My Technical Blog (Main)**          
-  https://ahyuo79.blogspot.com/     
-  A technical blog focused on system-level embedded systems(HW/FW/SW), DSP, imaging, RF, and performance optimization.   
-  
-* **Github Pages**            
-  https://jeonghunlee.github.io/        
-  projects and documentation focused on system-level embedded engineering and testing.      
-  
 * Bitsensing (working as JH)     
   https://github.com/JH-bitsensing
 
+##
+
+<br/>
+ 
+✍️ **My Technical Blogs & Pages**    
+
+
+1. **My Technical Blog (Main)**          
+  👉 https://ahyuo79.blogspot.com/      
+  My primary technical blog focused on various system-level embedded systems(HW/FW/SW), DSP, imaging, RF, and performance optimization.   
+
+2. **Medium (Test)**   
+  👉 https://medium.com/@ahyuo79   
+   My secondary technical blog is based on and expanded from the content in my primary technical blog. 
+  
+3. **Github Pages (Main)**            
+  👉 https://jeonghunlee.github.io/         
+  projects and documentation focused on system-level embedded engineering and testing.      
+  
+
 ## 
 
-* **Communities**     
+<br/>
+
+🌍 **Communities**     
 Actively participating in global semiconductor & embedded engineering communities     
-(using my **private email / private ID**, not affiliated with any employer):   
+(using my **private email / private ID**):   
    * [NXP Community](http://community.nxp.com/t5/user/viewprofilepage/user-id/181710)   
    * [NVIDIA Developer Forums](https://forums.developer.nvidia.com/u/ahyuo79/activity)   
    * [TI E2E Forum](https://e2e.ti.com/members/1028408/activities)  
