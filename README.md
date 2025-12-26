@@ -1,7 +1,7 @@
 ### Hi There 👋
    
-Are you interested in me ?      
-I like learning the latest technology and am interested in various things related to SW and HW.
+I enjoy sharing ideas and discussing embedded systems with engineers from different backgrounds.     
+I’m interested in system-level topics across software and hardware.  
 
 <!--
 
@@ -17,15 +17,12 @@ I like learning the latest technology and am interested in various things relate
 ## 
 
 - 🔭 I’m currently working at Bitsensing   
-- 🌱 I’m currently learning everything related to Embedded systems, especially now various BSP, RF,ESP32, RADAR, and Python   
+- 🌱 I spend most of my time working on embedded systems, including BSP, RF, ESP32, radar, and Python    
 - 👯 I’m looking to collaborate with various engineers interested in embedded systems
 - 📫 You can reach me via **My Technical Blog (Main)**  
 
                
 **Thanks for visiting here** 
-
-* Bitsensing (working as JH)     
-  https://github.com/JH-bitsensing
 
 ##
 
@@ -42,7 +39,7 @@ I like learning the latest technology and am interested in various things relate
   👉 https://ahyuo79.blogspot.com/      
   My primary technical blog focused on various system-level embedded systems(HW/FW/SW), DSP, imaging, RF, and performance optimization.   
 
-3. **Medium (Test)**   
+3. **Medium**   
   👉 https://medium.com/@ahyuo79   
    My secondary technical blog is based on and expanded from the content in my primary technical blog. 
   
@@ -57,6 +54,11 @@ Actively participating in global semiconductor & embedded engineering communitie
    * [NXP Community](http://community.nxp.com/t5/user/viewprofilepage/user-id/181710)   
    * [NVIDIA Developer Forums](https://forums.developer.nvidia.com/u/ahyuo79/activity)   
    * [TI E2E Forum](https://e2e.ti.com/members/1028408/activities)  
+
+----
+
+* Bitsensing (working as JH)     
+  https://github.com/JH-bitsensing
 
 
 <!--
