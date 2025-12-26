@@ -34,17 +34,17 @@ I like learning the latest technology and am interested in various things relate
 ✍️ **My Technical Blogs & Pages**    
 
 
-1. **My Technical Blog (Main)**          
+1. **Github Pages (Main)**            
+  👉 https://jeonghunlee.github.io/         
+  projects and documentation focused on system-level embedded engineering and testing.      
+
+2. **My Technical Blog (Main)**          
   👉 https://ahyuo79.blogspot.com/      
   My primary technical blog focused on various system-level embedded systems(HW/FW/SW), DSP, imaging, RF, and performance optimization.   
 
-2. **Medium (Test)**   
+3. **Medium (Test)**   
   👉 https://medium.com/@ahyuo79   
    My secondary technical blog is based on and expanded from the content in my primary technical blog. 
-  
-3. **Github Pages (Main)**            
-  👉 https://jeonghunlee.github.io/         
-  projects and documentation focused on system-level embedded engineering and testing.      
   
 
 ## 
