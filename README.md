@@ -55,10 +55,6 @@ Actively participating in global semiconductor & embedded engineering communitie
    * [NVIDIA Developer Forums](https://forums.developer.nvidia.com/u/ahyuo79/activity)   
    * [TI E2E Forum](https://e2e.ti.com/members/1028408/activities)  
 
-----
-
-* Bitsensing (working as JH)     
-  https://github.com/JH-bitsensing
 
 
 <!--
