@@ -16,10 +16,10 @@ I’m interested in system-level topics across software and hardware.
 
 ## 
 
-- 🔭 I’m currently working at Bitsensing   
-- 🌱 I spend most of my time working on embedded systems, including BSP, RF, ESP32, radar, and Python    
-- 👯 I’m looking to collaborate with various engineers interested in embedded systems
-- 📫 You can reach me via **My Technical Blog (Main)**  
+- 💬 Feel free to connect with me on **LinkedIn**.   
+- 🌱 I work primarily on embedded systems: BSP, system integration, RF, and Python.   
+- 🤝 Open to collaboration with engineers in embedded systems.  
+- 📫 You can also find my work on **My Technical Blog (Main)**.  
 
                
 **Thanks for visiting here** 
